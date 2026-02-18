@@ -57,15 +57,15 @@ delivery performance insights.
 
 ### Monthly Revenue Trend
 
-![Revenue](01_monthly_revenue_trend.png)
+![Revenue](PNGs/01_monthly_revenue_trend.png)
 
 ### RFM Customer Segmentation
 
-![RFM](08_rfm_segmentation.png)
+![RFM](PNGs/08_rfm_segmentation.png)
 
 ### Delivery Performance
 
-![Delivery](09_delivery_analysis.png)
+![Delivery](PNGs/09_delivery_analysis.png)
 
 ## Business Recommendations
 
