@@ -88,7 +88,7 @@ delivery performance insights.
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-sales-analytics.git
+git clone https://github.com/tanmay121-hub/ecommerce-sales-analytics.git
 
 cd ecommerce-sales-analytics
 
